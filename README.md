@@ -45,4 +45,4 @@ This project is built with a focus on modularity and clean code:
 * Multi-user support with transaction history logs.
 
 ---
-*Developed by [Senin Adın/Kullanıcı Adın]*
+*Developed by [Halil Ibrahim Celik /hallbrhmelk]*
